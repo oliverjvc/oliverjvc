@@ -1,5 +1,5 @@
 ### Hi there 👋
-  - 🌱 I’m currently learning Java
+  - 🌱 I’m currently learning Java, PHP and C
   - 🤔 I’m looking for help with Kotlin
 
 <!--
