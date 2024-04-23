@@ -1,6 +1,6 @@
 ### Hi there 👋
-  - 🌱 I’m currently learning Java, PHP and C
-  - 🤔 I’m looking for help with Kotlin
+  - 🌱 I’m currently learning Java, PHP, C and Scala
+  - 🤔 I’m looking for help with TypeScript
 
 <!--
 **oliverjvc/oliverjvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
