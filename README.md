@@ -5,7 +5,7 @@
  [![Share on LinkedIn](https://img.shields.io/badge/-share%20on%20linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/?shareActive=true&text=)
 
 
- ![Snake animation](https://raw.githubusercontent.com/{oliverjvc}/{oliverjvc}/output/github-contribution-grid-snake-dark.svg)
+ ![Snake animation](https://raw.githubusercontent.com/oliverjvc/oliverjvc/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **oliverjvc/oliverjvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
