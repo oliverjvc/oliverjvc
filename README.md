@@ -2,7 +2,7 @@
   - 🌱 I’m currently learning Java, PHP, C and Scala
   - 🤔 I’m looking for help with TypeScript
 
-    [![LinkedIn](https://img.shields.io/badge/-share%20on%20linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/?shareActive=true&text=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foliver-jovic-837a03188%2F)
+ [![Share on LinkedIn](https://img.shields.io/badge/-share%20on%20linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/?shareActive=true&text=)
 
 <!--
 **oliverjvc/oliverjvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
