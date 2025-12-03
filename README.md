@@ -1,5 +1,4 @@
 ### Hi there 👋
-  - 🌱 I’m currently learning Java, PHP, C and Scala
 
  [![Share on LinkedIn](https://img.shields.io/badge/-share%20on%20linkedin-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/?shareActive=true&text=)
 
